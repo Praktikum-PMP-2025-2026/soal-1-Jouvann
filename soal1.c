@@ -23,7 +23,7 @@ bool cekDigit(int N){
 
 int main(){
     int N;
-    printf("Masukan Tingkatan Lampu Merah : ");
+    //printf("Masukan Tingkatan Lampu Merah : ");
     scanf("%d", &N);
 
     for (int i = 1; i <= N; i++){
