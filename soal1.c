@@ -36,9 +36,9 @@ int main(){
         else if (i % 2 == 0){
             printf("KUNING\n");
         }
-        else if (cekDigit(i)){
+        /*else if (cekDigit(i)){
             printf("HIJAU\n");
-        }
+        }*/
         else {
             printf("%d\n", i);
         }
